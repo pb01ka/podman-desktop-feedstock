@@ -3,7 +3,7 @@ schema_version: 1
 
 context:
   version: "1.28.0"
-  nodejs_min: "24.14"
+  nodejs_min: "26"
 
 package:
   name: podman-desktop
